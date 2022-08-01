@@ -1,6 +1,6 @@
 import React from "react";
 import { Route, useRouteMatch } from "react-router-dom";
-import MoviesList from "./MovieList";
+import MoviesList from "./MoviesList";
 import MovieShow from "./MovieShow";
 
 function MoviesPage({ movies }) {
